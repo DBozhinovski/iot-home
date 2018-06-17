@@ -1,1 +1,1 @@
-rsync -a ~/dev/weather root@weathersensor.local:/root/
+rsync -a ~/dev/iot/weather root@weathersensor.lan:/root/
