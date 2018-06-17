@@ -1,0 +1,1 @@
+rsync -a ~/dev/weather root@weathersensor.local:/root/

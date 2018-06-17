@@ -1,0 +1,1 @@
+rsync -a ~/dev/iot/dashboard/build/ root@odroid.lan:/var/www/
